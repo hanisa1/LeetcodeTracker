@@ -1,4 +1,4 @@
-# Coding Interview Patterns
+# Leetcode Tracker
 
 ## Coding Interview Patterns
 
